@@ -1,10 +1,13 @@
 About Me
+
 Hello, I'm Shubham J Yadav, a second-year Computer Science Engineering (CSE) student at Parul University. 
 I am specializing in Big Data Analytics,
 and I'm passionate about learning 
 and growing in the world of data science and analytics.
 
 My Current Focus:
+
+
 Languages & Technologies:
 Java
 Basic C & C++
@@ -17,13 +20,17 @@ To build a solid foundation in Full Stack Development while continuing to enhanc
 To eventually work on cutting-edge technologies and contribute to solving real-world problems using data.
 
 Skills
-Programming Languages: Java, Python, C, C++
+Programming Languages:
+
+Java, Python, C, C++
 Big Data & Analytics: Hadoop, Spark (Learning)
 Web Development: HTML, CSS, JavaScript (Currently learning Full Stack)
 Data Structures & Algorithms: Problem-solving in various coding platforms (LeetCode, Codeforces)
 Tools & Technologies: Git, Docker, SQL (Learning)
 
 Projects
+
+
 1. Big Data Analysis Project
 Description: A project that leverages Big Data tools (like Hadoop/Spark) to analyze large datasets for useful insights.
 Technologies: Java, Hadoop, Spark
@@ -36,9 +43,13 @@ Technologies: Python, BeautifulSoup, Pandas
 
 
 Learning Journey
+
+
 I am currently focused on improving my skills in Python and Full Stack Development. I am also exploring how to apply data analytics concepts to real-world applications.
 
 What I’m Currently Learning:
+
+
 Full Stack Development: Learning frameworks like React (frontend) and Node.js (backend).
 Big Data Analytics: Delving deeper into Apache Spark and Hadoop.
 Data Structures & Algorithms: Continuously improving my problem-solving skills for competitive programming.

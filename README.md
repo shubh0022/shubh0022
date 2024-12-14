@@ -68,6 +68,9 @@ Contact
 Feel free to connect with me if you have any advice, collaboration opportunities, or just want to chat about technology!
 
 Email: YADAV.SHUBHAM.JANGABAHADUR003@GMAIL.COM
+
 LinkedIn:https://www.linkedin.com/in/shubham-jangbahadur-yadav-3754542ab/https://www.linkedin.com/in/shubham-jangbahadur-yadav-3754542ab/
+
 x.com:
+
 instagram: https://www.instagram.com/shubham_pacifist/?utm_source=ig_web_button_share_sheet

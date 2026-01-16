@@ -4,14 +4,14 @@
 </div>
 
 
-<!-- Professional Banner (Two Lines for Full Text) -->
+<!-- Professional Two-Line Banner -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Neural+Networks&fontSize=32&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Neural+Networks&fontSize=32&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=AI+%7C+Software+Development+%26+Engineering&fontSize=32&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=AI+%7C+Software+Development+%26+Engineering&fontSize=32&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </div>

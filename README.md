@@ -9,7 +9,7 @@
 </div>
 
 ## 👋 About Me
-Hello! I’m **Shubham J Yadav**, a **Second-Year Computer Science Engineering (CSE)** student specializing in **Big Data Analytics** at *Parul University, India*. I’m passionate about building intelligent solutions, learning new technologies, and applying data to solve real-world problems. :contentReference[oaicite:1]{index=1}
+Hello! I’m **Yadav Shubham Jangbahadur **, a **Pre-Final -Year Computer Science Engineering (CSE)** student specializing in **Big Data Analytics** at *Parul University, India*. I’m passionate about building intelligent solutions, learning new technologies, and applying data to solve real-world problems. :contentReference[oaicite:1]{index=1}
 
 ### 🚀 Quick Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=shubh0022&style=flat-square)

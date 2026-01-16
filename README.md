@@ -2,13 +2,20 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1DB954&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Shubham+J+Yadav;Big+Data+Analytics+|+Software+Engineer+in+Making;Turning+Data+into+Insights+%26+Impact" alt="Typing Header" />
 </div>
+
+
 <!-- Professional Banner -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Software+Development&fontSize=36&fontColor=fff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Big+Data+Analytics+%7C+Machine+Learning&fontSize=36&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Software+Development+%26+Engineering&fontSize=36&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </div>
+
 
 
 

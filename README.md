@@ -1,73 +1,104 @@
-<!-- Typing SVG / Header -->
-<h1 align="center">Hi 👋, I'm Shubham J Yadav</h1>
-<p align="center">A passionate CSE student specializing in Big Data Analytics and Full Stack Development.</p>
+<!-- Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+J+Yadav;CSE+Student+%7C+Big+Data+Analytics+%7C+Aspiring+Developer;Turning+Data+into+Insights+%26+Impact" alt="Typing SVG"/>
+</div>
+
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20GitHub%20Space&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+</div>
+
+## 👋 About Me
+Hello! I’m **Shubham J Yadav**, a **Second-Year Computer Science Engineering (CSE)** student specializing in **Big Data Analytics** at *Parul University, India*. I’m passionate about building intelligent solutions, learning new technologies, and applying data to solve real-world problems. :contentReference[oaicite:1]{index=1}
+
+### 🚀 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=shubh0022&style=flat-square)
 
 ---
 
-## 🚀 About Me
+## 🛠️ Skills & Tech Stack
 
-```python
-class ShubhamJYadav:
-    def __init__(self):
-        self.role = "Aspiring Big Data & Full Stack Developer"
-        self.education = "2nd Year CSE @ Parul University"
-        self.philosophy = "Learn by building and make data solve real problems"
-        self.passion = [
-            "Big Data Analytics",
-            "Web Development",
-            "Data Structures & Algorithms",
-            "Competitive Programming",
-            "Clean, Scalable Code"
-        ]
-        self.current_focus = "Big Data tools + Python + Full Stack + Projects"
-    
-    def daily_routine(self):
-        return [
-            "☕ Chai + Code",
-            "💻 Learn & Practice",
-            "🔧 Build Projects",
-            "📈 Track Progress",
-        ]
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 📊 Data & Analytics
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 📌 Big Data Analysis Project  
-- 📌 Java CLI Task Manager  
-- 📌 Python Web Scraping Tool  
-- 📌 Other practice and learning repos
+### 🌐 Web Development (Learning)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
+### 🧠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## ✅ What This README Includes
+## 📂 Featured Projects
 
-✔ Professional intro & mindset  
-✔ Python style “About Me” block  
-✔ Clear categories: Dev | Web | Data | Learning  
-✔ Skill sections & tool badges  
-✔ Project highlights with links  
-✔ GitHub stats visuals  
-✔ Goals, contact info & motivation
+> I carefully pick projects that show both problem-solving and real-world usage of technologies. :contentReference[oaicite:2]{index=2}
+
+### 🔹 Big Data Analysis Project
+High-level processing and analytics with **Hadoop & Spark** on large datasets.  
+🔗 *View Repo:* `Big-Data-Analysis-Project`
+
+### 🔹 Java CLI Task Manager
+Custom **Java CLI application** to manage daily tasks efficiently.  
+🔗 *View Repo:* `Java-CLI-Task-Manager`
+
+### 🔹 Python Web Scraper
+Built with **BeautifulSoup & Pandas** to extract structured web data.  
+🔗 *View Repo:* `Python-Web-Scraper`
+
+*(Add links when available — these help recruiters dive straight into your work.)* :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 📌 Next Steps (optional but recommended)
-To make it even better:
-🔹 Add **animated badges** (Typing SVG, Wakatime, visitors)  
-🔹 Include **screenshots or GIF demos** for projects  
-🔹 Pin your **top 4–6 repos** in GitHub profile settings  
-🔹 Add **color icons** for skills
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh0022&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh0022&layout=compact&theme=radical" width="48%"/>
+</div>
 
 ---
 
-If you want, I can also generate:
-📄 A **PDF portfolio** from this README  
-✨ A **visual CV/resume** based on the same data  
-📊 Personalized **resume bullets** for job applications
+## 🎯 Learning & Focus Areas
 
-Just ask! 😊
-::contentReference[oaicite:0]{index=0}
+Currently expanding expertise in:
+- **Python & Data Analysis**
+- **Full Stack Development (React + Node.js)**
+- **Advanced Big Data Tools (Spark / Hadoop)**
+- **Competitive Programming & DSA**
 
-    
-    def fun_fact(self):
-        return "I enjoy solving a tough problem more than scrolling social media 😄."
+---
+
+## 📬 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-jangbahadur-yadav-3754542ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yadav.shubham.jangabahadur003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/shubham_pacifist/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/yourxhandle"><img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
+
+## ✨ Quick Tips to Improve Further
+✔ Write detailed, individual **README files for each of your top projects** explaining what problem they solve, tech stack used, and how to run them. :contentReference[oaicite:4]{index=4}  
+✔ Pin **3–6 best repositories** on your GitHub profile so recruiters see your strongest work first. :contentReference[oaicite:5]{index=5}  
+✔ Regularly update the README as you complete new projects or learn new tech.
+
+---
+
+🎯 **Your README now acts as a polished portfolio** and gives visitors a strong first impression of your abilities, goals, and projects — just like professional developers do to attract collaborators or future employers. :contentReference[oaicite:6]{index=6}
+
+---
+
+If you want, I can also provide a **PDF version** of this profile — just tell me whether you want it **simple professional** or **modern creative**!
+::contentReference[oaicite:7]{index=7}

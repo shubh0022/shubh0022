@@ -5,8 +5,9 @@
 
 <!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Big+Data+Analytics+|+Machine+Learning+|+Software+Development&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Software+Development&fontSize=36&fontColor=fff&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 ## 👋 About Me

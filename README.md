@@ -1,12 +1,13 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Yadav+Shubham+Jangabahdur;CSE+Student+%7C+Big+Data+Analytics+%7C+Aspiring+Developer;Turning+Data+into+Insights+%26+Impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1DB954&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Shubham+J+Yadav;Big+Data+Analytics+|+Software+Engineer+in+Making;Turning+Data+into+Insights+%26+Impact" alt="Typing Header" />
 </div>
 
-<!-- Banner -->
+<!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20GitHub%20Space&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Big+Data+Analytics+|+Machine+Learning+|+Software+Development&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
+
 
 ## 👋 About Me
 Hello! I’m **Yadav Shubham Jangbahadur **, a **Pre-Final -Year Computer Science Engineering (CSE)** student specializing in **Big Data Analytics** at *Parul University, India*. I’m passionate about building intelligent solutions, learning new technologies, and applying data to solve real-world problems. :contentReference[oaicite:1]{index=1}

@@ -4,14 +4,14 @@
 </div>
 
 
-<!-- Professional Two-Line Banner -->
+<!-- World-Class Professional Banner -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Neural+Networks&fontSize=32&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Shubham+J+Yadav+%7C+Big+Data+%26+AI+Engineer+in+Making&fontSize=36&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=AI+%7C+Software+Development+%26+Engineering&fontSize=32&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=soft&height=180&text=Big+Data+Analytics+%7C+Machine+Learning+%7C+Neural+Networks+%7C+Software+Development&fontSize=30&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </div>

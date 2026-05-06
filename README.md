@@ -50,24 +50,41 @@ Hello! I’m **Yadav Shubham Jangbahadur **, a **Pre-Final -Year Computer Scienc
 
 ## 📂 Featured Projects
 
-> I carefully pick projects that show both problem-solving and real-world usage of technologies. :contentReference[oaicite:2]{index=2}
+> I carefully build projects that demonstrate real-world problem-solving, AI innovation, scalable systems, and practical implementation of modern technologies.
 
-### 🔹 Big Data Analysis Project
-High-level processing and analytics with **Hadoop & Spark** on large datasets.  
-🔗 *View Repo:* `Big-Data-Analysis-Project`
+### 🔹 SecureStream AI – Real-Time Fraud Detection Platform
+Real-time fraud detection and analytics platform built using Apache Kafka, Apache Spark, Machine Learning, React, and FastAPI for monitoring suspicious transaction activity and anomaly detection.  
+🔗 *View Repo:* `SecureStream-AI`
 
-### 🔹 Java CLI Task Manager
-Custom **Java CLI application** to manage daily tasks efficiently.  
-🔗 *View Repo:* `Java-CLI-Task-Manager`
+### 🔹 National Predictive Intelligence Grid (NPIG)
+AI-powered governance and predictive analytics platform integrating traffic, crime, healthcare, and climate datasets using Machine Learning, Kafka streaming, and FastAPI.  
+🔗 *View Repo:* `National-Predictive-Intelligence-Grid`
 
-### 🔹 Python Web Scraper
-Built with **BeautifulSoup & Pandas** to extract structured web data.  
-🔗 *View Repo:* `Python-Web-Scraper`
+### 🔹 EcoPredict – Biodiversity Forecasting System
+Environmental forecasting platform using Random Forest, GIS heatmaps, PostgreSQL, Redis, and Explainable AI for biodiversity prediction and environmental analysis.  
+🔗 *View Repo:* `EcoPredict-Biodiversity-Forecasting`
 
-*(Add links when available — these help recruiters dive straight into your work.)* :contentReference[oaicite:3]{index=3}
+### 🔹 UJCARE AI – Healthcare Support Platform
+AI-powered healthcare assistance platform with symptom guidance, preventive care recommendations, analytics dashboards, and secure full-stack architecture.  
+🔗 *View Repo:* `UJCARE-AI-Healthcare-Platform`
 
----
+### 🔹 Xami AI – AI Exam Intelligence Platform
+NLP-based exam intelligence and adaptive study planning platform featuring AI recommendations, authentication system, and payment integration.  
+🔗 *View Repo:* `Xami-AI-Platform`
 
+### 🔹 Data Hacker Hand Game (D2HG)
+Cybersecurity awareness simulation game developed using Python and Pygame to model real-time threat scenarios, collision systems, and security-based gameplay mechanics.  
+🔗 *View Repo:* `Data-Hacker-Hand-Game`
+
+### 🔹 Big Data Analytics Dashboard
+Interactive analytics dashboard for processing and visualizing large-scale datasets using Power BI, SQL, and Python for business intelligence insights.  
+🔗 *View Repo:* `Big-Data-Analytics-Dashboard`
+
+### 🔹 AI Smart Recommendation System
+Machine Learning recommendation engine designed to analyze user behavior patterns and provide intelligent personalized recommendations.  
+🔗 *View Repo:* `AI-Recommendation-System`
+
+*(Add actual GitHub repository links to improve recruiter visibility, technical credibility, and portfolio strength.)*
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
